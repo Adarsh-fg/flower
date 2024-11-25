@@ -29,3 +29,7 @@ This project showcases an interactive and visually captivating flower animation 
 ## Customization
 ---
 Modify the CSS variables in the :root section of style.css to change the colors, animation speeds, and other visual properties.
+
+## License
+--- 
+This project is licensed under the MIT License.

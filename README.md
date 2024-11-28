@@ -1,4 +1,4 @@
-# Animated Flowers in CSS
+# Animated Flowers
 ---
 This project showcases an interactive and visually captivating flower animation created using HTML, CSS, and JavaScript. The application is designed to demonstrate advanced CSS animations, responsive layout designs, and creative use of DOM manipulation for visual effects.
 
